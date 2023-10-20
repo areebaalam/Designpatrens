@@ -7,10 +7,10 @@ package mediator;
 
 public class MediatorPatternDemo {
    public static void main(String[] args) {
-      User robert = new User("Robert");
+      User robert = new User("comsats");
       User john = new User("John");
 
-      robert.sendMessage("Hi! John!");
+      robert.sendMessage("Hi! comsians!");
       john.sendMessage("Hello! Robert!");
    }
 }

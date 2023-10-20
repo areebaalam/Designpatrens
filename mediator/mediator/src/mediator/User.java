@@ -7,7 +7,6 @@ package mediator;
 
 /**
  *
- * @author sp21-bse-072
  */
 public class User {
    private String name;
