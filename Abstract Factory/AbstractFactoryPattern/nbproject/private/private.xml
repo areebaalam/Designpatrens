@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/AbstractFactoryPatternDemo.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/ShapeFactory.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/AbstractFactory.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/RoundedRectangle.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/abstractfactorypattern/AbstractFactoryPattern.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/Rectangle.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/FactoryProducer.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/Shape.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/RoundedSquare.java</file>
+            <file>file:/Z:/designpatren/labs/stretegy/AbstractFactoryPattern/src/RoundedShapeFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
